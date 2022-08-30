@@ -22,7 +22,7 @@
 > :warning: Kurulum aşamaları.
 
 1. İlk olarak kayit mesajımızı `!kayitmsg` komutu ile oluşturuyoruz.
-![semoizm-kayitmsg](https://semoizm.reeee.ee/5G7A9ztKJ)
+![semoizm-kayitmsg](https://semoizm.reeee.ee/5G7A9ztKJ.gif)
 
 2. Olarak kayıt katagorilerimizi ve gerekli yerleri `config.json` dosyasından dolduruyoruz
 ![semoizm-doldurma](https://semoizm.reeee.ee/5G7ADVJ3G.gif)
